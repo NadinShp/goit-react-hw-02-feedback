@@ -6,7 +6,7 @@ const Statistics = ({ good, neutral, bad, total, positivePercentage }) => (
         <li><p className={styles.static__text}>Neutral: {neutral}</p></li>
         <li><p className={styles.static__text}>Bad: {bad}</p></li>
         <li><p className={styles.static__text}>Total: {total}</p></li>
-        <li><p className={styles.static__text}>Positive feedback: {positivePercentage}</p></li>
+        <li><p className={styles.static__text}>Positive feedback: {positivePercentage}%</p></li>
     </ul>
 );
 
