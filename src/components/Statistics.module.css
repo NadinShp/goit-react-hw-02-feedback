@@ -1,0 +1,11 @@
+.statistic__list {
+  list-style: none;
+  margin: 0 auto;
+  max-width: 400px;
+}
+.static__text {
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 1.13;
+  margin: 10px auto;
+}
